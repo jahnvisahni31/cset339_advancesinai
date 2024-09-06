@@ -5,3 +5,5 @@
 
 
 2. [preprocessing](https://github.com/jahnvisahni31/cset339_advancesinai/blob/main/preprocessing.ipynb)
+
+3. [Distributional_semantics](https://github.com/jahnvisahni31/cset339_advancesinai/blob/main/Distributional_Semantics.ipynb)
